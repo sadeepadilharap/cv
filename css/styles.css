@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #DBE2EF;
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    border-style: none;
+    background-color: white;
+    height: 1px;
+}
