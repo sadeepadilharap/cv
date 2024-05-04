@@ -1,8 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #DBE2EF;
-    margin: 0;
-    padding: 0;
 }
 
 hr {
@@ -10,3 +8,12 @@ hr {
     background-color: white;
     height: 1px;
 }
+
+h1 {
+    color: #3F72AF;
+}
+
+h3 {
+    color: #112D4E;
+}
+
